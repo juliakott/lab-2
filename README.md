@@ -1,1 +1,1 @@
-# lab-2
+# Architecture-course-2
